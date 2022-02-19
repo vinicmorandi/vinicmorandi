@@ -1,7 +1,7 @@
 ### Hello there :)
 
 - Currently working at Eccosys
-- Interested in ReactJS, C#, and Python
+- React, Node, Vue, React Native + the basics
 - Preference in Front-end, but can also Fullstack
 
 <details><summary>Here are some stats</summary>
