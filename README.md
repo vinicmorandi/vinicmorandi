@@ -1,6 +1,5 @@
 ### Hello there :)
 
-- Currently working at Eccosys
 - React, Node, Vue, React Native + the basics
 - Preference in Front-end, but can also Fullstack
 
