@@ -1,6 +1,6 @@
 ### Hello there :)
 
-- React, Vue, React Native, Angular, PHP, Node
+- React, Vue, React Native, Angular, PHP, Node, Django
 - Preference in Front-end, but can also Fullstack
 
 <details><summary>Here are some stats</summary>
