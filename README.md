@@ -1,21 +1,21 @@
 # Hey, I'm Vinícius 👋
 
-I'm a full-stack developer from Bento Gonçalves, Brazil. I build web apps with **React, TypeScript and Node.js on AWS**, and lately I've been putting **AI to real use inside products** — not demos, production pipelines.
+Full-stack developer from Bento Gonçalves, Brazil. Most of my work is React/TypeScript on the front, Node.js (NestJS) on the back, AWS underneath. These days a lot of it involves getting LLMs to do useful work in production.
 
-🏗️ Right now I'm at **[Taxly](https://taxly.com.br)**, where I build NestJS microservices and an LLM-powered document import & classification pipeline, and where we cut perceived page-load time by ~80%. My work commits live on my [work profile](https://github.com/vinicmorandi-taxly).
+I'm currently at [Taxly](https://taxly.com.br), building microservices and an AI pipeline that imports and classifies documents. My work commits live on [another account](https://github.com/vinicmorandi-taxly).
 
-## Things I've built
+## Some things I've built
 
 | | |
 |---|---|
-| 🌐 **[Portfolio](https://github.com/vinicmorandi/portfolio)** | This bilingual portfolio site — Nuxt 3, Tailwind, tested with Vitest, WCAG AA. Live at [vinicmorandi.com](https://vinicmorandi.com) |
-| ⚔️ **[Wooper](https://github.com/vinicmorandi/wooper)** | Pokémon battle simulator with real-time multiplayer — React, Node.js, Socket.IO *(work in progress)* |
+| 🌐 **[Portfolio](https://github.com/vinicmorandi/portfolio)** | My site. Nuxt 3 + Tailwind, EN/PT, tested with Vitest. Live at [vinicmorandi.com](https://vinicmorandi.com) |
+| ⚔️ **[Wooper](https://github.com/vinicmorandi/wooper)** | Pokémon battle simulator with real-time multiplayer. React, Node.js, Socket.IO. Still a work in progress. |
 
-## Tech I reach for
+## Stack
 
-**Every day:** TypeScript · React · Vue/Nuxt · Node.js (NestJS) · PostgreSQL · Prisma · Docker · AWS
-**Often:** Python · Laravel · Next.js · RabbitMQ · OpenAI APIs · Jest/Vitest
-**Sometimes:** Go · Angular · Deno · MongoDB
+**Daily:** TypeScript, React, Vue/Nuxt, NestJS, PostgreSQL, Prisma, Docker, AWS
+**Often:** Python, Laravel, Next.js, RabbitMQ, OpenAI APIs, Jest/Vitest
+**Now and then:** Go, Angular, Deno, MongoDB
 
 ## Find me
 
