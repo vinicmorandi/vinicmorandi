@@ -2,8 +2,6 @@
 
 Full-stack developer from Bento Gonçalves, Brazil. Most of my work is React/TypeScript on the front, Node.js (NestJS) on the back, AWS underneath. These days a lot of it involves getting LLMs to do useful work in production.
 
-I'm currently at [Taxly](https://taxly.com.br), building microservices and an AI pipeline that imports and classifies documents. My work commits live on [another account](https://github.com/vinicmorandi-taxly).
-
 ## Stack
 
 **Daily:** TypeScript, React, Vue/Nuxt, NestJS, PostgreSQL, Prisma, Docker, AWS
