@@ -12,6 +12,6 @@ Full-stack developer from Bento Gonçalves, Brazil. Most of my work is React/Typ
 
 ## Find me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/vinicmorandi/)
-[![Portfolio](https://img.shields.io/badge/vinicmorandi.com-a855f7?style=flat&logo=googlechrome&logoColor=white)](https://vinicmorandi.com/)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat&logo=gmail&logoColor=white)](mailto:viniciuscmorandi@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/vinicmorandi/)
+[Portfolio](https://vinicmorandi.com/)
+[Email](mailto:viniciuscmorandi@gmail.com)
