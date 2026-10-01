@@ -1,16 +1,18 @@
 # Hey, I'm Vinícius 👋
 
-Full-stack engineer from Bento Gonçalves, Brazil. Most of my work is React/TypeScript on the front, Node.js (NestJS) on the back, AWS underneath. These days a lot of it involves getting LLMs to do useful work in production — with the cost, evals and guardrails that takes.
+Full-stack developer from Bento Gonçalves, Brazil. Most of my work is React/TypeScript on the front, Node.js (NestJS) on the back, AWS underneath. These days a lot of it involves getting LLMs to do useful work in production, which turns out to be mostly about evals, cost tracking and knowing when the model should say "I don't know".
 
-At work I built a document intake pipeline with OCR and LLMs that processes **353 documents in 3 minutes**, owned an analytics module of **95 endpoints** from zero to production, and cut perceived load time by **~80%**.
+At Taxly I built the pipeline that reads tax documents with OCR and an LLM (353 documents in about 3 minutes, instead of hours of manual entry), owned the analytics module from zero to production (95 endpoints) and cut perceived load time by about 80%.
 
-## Featured projects
+My day-to-day work lives in private repositories under [@vinicmorandi-taxly](https://github.com/vinicmorandi-taxly) — 1,200+ contributions in the last year.
 
-**[grifo](https://github.com/vinicmorandi/grifo)** — RAG agent for Brazilian tax law. Every claim cites the exact character span behind it, a second model audits the answer, deterministic gates audit the auditor, and unsupported questions are refused. **Eval 13/13** across two model families.
+## Side projects
 
-**[docpipe](https://github.com/vinicmorandi/docpipe)** — LLM document extraction pipeline: classify → extract → validate, with structured outputs, retries and a dead-letter queue, and human review below a confidence threshold. **100% field accuracy** on a versioned golden set, E2E tests in CI on every push.
+**[grifo](https://github.com/vinicmorandi/grifo)** answers questions about Brazilian tax law and points to the exact passage behind every claim. A second model checks the answer, and when something can't be backed up, grifo refuses instead of guessing. It passes all 13 eval cases on two different model families.
 
-**[wooper](https://github.com/vinicmorandi/wooper)** — Real-time 1v1 battle simulator. Server-authoritative WebSockets, **135 tests** proving the anti-cheat, AWS ECS Fargate provisioned with Terraform for **~$22/month**. [Live demo](https://wooper-demo.vercel.app)
+**[docpipe](https://github.com/vinicmorandi/docpipe)** takes a PDF or an image, works out what kind of document it is and pulls structured data out of it. Anything below a confidence threshold goes to a human for review. It gets every field right on its golden set, and the E2E tests run in CI on every push.
+
+**[wooper](https://github.com/vinicmorandi/wooper)** is a real-time 1v1 battle simulator. The server validates every move, 135 tests try to cheat it, and the whole thing runs on AWS ECS Fargate for about $22 a month. [Try it here](https://wooper-demo.vercel.app).
 
 ## Stack
 
